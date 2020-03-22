@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Report a bug in the game
+name: 'Issue report: Toolset'
+about: Create a report to help us improve
 title: ''
-labels: ''
+labels: toolset
 assignees: ''
 
 ---
@@ -10,15 +10,13 @@ assignees: ''
 **To Reproduce**
 
 * This is a sample step list. Replace with yours matching the same pattern.
-* Load attached save.
-* Move through door in front of you.
-* Game crashes. Dump attached.
+* Load attached module, open first area.
+* Click the chair placeable.
+* Toolset crashes.
 
 **Specifics**
 
- - OS (Windows, Mac, Linux)
  - Game build (e.g. 8193.8, or commit hash)
- - Distro platform (BDC, Steam, GOG)
 
 **If needed, describe the bug**
 
