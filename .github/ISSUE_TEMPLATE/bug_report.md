@@ -18,6 +18,7 @@ assignees: ''
 
  - OS (Windows, Mac, Linux)
  - Game build (e.g. 8193.8, or commit hash)
+ - Distro platform (BDC, Steam, GOG)
 
 **If needed, describe the bug**
 
