@@ -8,9 +8,9 @@ Thank you.
 
 1. **If you want to reach customer support, follow this link instead:** https://beamdog.atlassian.net/servicedesk/customer/portals. This is a technical issue tracker for technical people. We cannot help you with anything except game bugs. If you have issues running the game, issues with your purchase, or other difficulties not related to bugs in the code and data files, please contact customer support at the given link.
 
-2. **DO NOT REQUEST FEATURES HERE.** This is only for bugs in the game. **Feature requests will be removed without comment.**
+2. **DO NOT REQUEST FEATURES HERE.** This is only for bugs in the game. **Feature requests will be closed without comment.**
 
-3. **DO NOT REPORT MOBILE OR CONSOLE BUGS HERE.** This is only for the desktop build of the game. Bugs on other platforms need to be reported through Service Desk, via the link above. **Reports for non-desktop platforms will be deleted without comment.**
+3. **DO NOT REPORT MOBILE OR CONSOLE BUGS HERE.** This is only for the desktop build of the game. Bugs on other platforms need to be reported through Service Desk, via the link above. **Reports for non-desktop platforms will be closed without comment.**
 
 4. **Check if your issue was already reported.** You can find all reported issues here: https://github.com/Beamdog/nwn-issues/issues
 
