@@ -1,6 +1,6 @@
 ---
 name: 'Issue report: Toolset'
-about: Create a report to help us improve
+about: Report an issue with the toolset
 title: ''
 labels: toolset
 assignees: ''
