@@ -22,11 +22,11 @@ Thank you.
 
 1. After you verified all of the above, click the New Issue button.
 
-2. Select the template that best fits your type of bug.
+2. Select the template that best fits your type of issue.
 
 3. Fill out the template, keeping things concise and to the point.
 
-4. Pick a descriptive title; try to keep it naturally short, omitting superfluous details.
+4. Pick a descriptive title. Please keep it naturally short and address the core issue in as few and clear words as reasonable.
 
 5. If you are unsure or have doubts, do not worry about specifics. We will be happy to help!
 
