@@ -29,3 +29,9 @@ Thank you.
 4. Pick a descriptive title; try to keep it naturally short, omitting superfluous details.
 
 5. If you are unsure or have doubts, do not worry about specifics. We will be happy to help!
+
+## Q&A
+
+### My issue was closed without comment!
+
+Does your issue have a milestone attatched to it? That means it was fixed to target that version. All is well! Your ticket was likely closed by reference from the internal repository, which GitHub does not show publicly.
