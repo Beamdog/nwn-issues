@@ -34,4 +34,4 @@ Thank you.
 
 ### My issue was closed without comment!
 
-Does your issue have a milestone attatched to it? That means it was fixed to target that version. All is well! Your ticket was likely closed by reference from the internal repository, which GitHub does not show publicly.
+Does your issue have a milestone attatched to it? That means it was/will be fixed in that version. All is well! Your ticket was likely closed by reference from the internal repository, which GitHub does not show publicly. Of course, you are welcome to keep commenting on that ticket!
