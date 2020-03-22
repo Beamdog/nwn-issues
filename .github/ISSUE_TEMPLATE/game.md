@@ -1,5 +1,5 @@
 ---
-name: 'Issue report: Game'
+name: Game
 about: Report a game issue, such as crashes, system/logic bugs, patch regressions.
 title: ''
 labels: game

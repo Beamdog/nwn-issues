@@ -1,8 +1,8 @@
 ---
-name: 'Issue report: Game'
-about: Report a game issue, such as crashes, system/logic bugs, patch regressions.
+name: Toolset
+about: Report an issue with the toolset.
 title: ''
-labels: game
+labels: toolset
 assignees: ''
 
 ---
@@ -10,15 +10,13 @@ assignees: ''
 **To Reproduce**
 
 * This is a sample step list. Replace with yours matching the same pattern.
-* Load attached save.
-* Move through door in front of you.
-* Game crashes. Dump attached.
+* Load attached module, open first area.
+* Click the chair placeable.
+* Toolset crashes.
 
 **Specifics**
 
- - OS (Windows, Mac, Linux)
  - Game build (e.g. 8193.8, or commit hash)
- - Distro platform (BDC, Steam, GOG)
 
 **If needed, describe the bug**
 
