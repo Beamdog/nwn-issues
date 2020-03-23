@@ -27,3 +27,4 @@ If warranted, add videos/screenshots to showcase the issue.
 
  - Game build (e.g. 8193.8, or commit hash)
  - OS (Windows, Mac, Linux)
+ - Distro platform (BDC, Steam, GOG)
