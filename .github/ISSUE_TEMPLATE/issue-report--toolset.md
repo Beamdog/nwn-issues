@@ -9,10 +9,10 @@ assignees: ''
 
 **To Reproduce**
 
-* This is a sample step list. Replace with yours matching the same pattern.
-* Load attached module, open first area.
-* Click the chair placeable.
-* Toolset crashes.
+ - This is a sample step list. Replace with yours matching the same pattern.
+ - Load attached module, open first area.
+ - Click the chair placeable.
+ - Toolset crashes.
 
 **Specifics**
 

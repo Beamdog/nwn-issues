@@ -1,6 +1,7 @@
 ---
 name: 'Issue report: Game'
-about: Report a game issue, such as crashes, system/logic bugs, patch regressions.
+about: Report a game issue, such as graphics, system/logic bugs, patch regressions,
+  supporting systems. Everything except crashes and data/art.
 title: ''
 labels: game
 assignees: ''
@@ -9,10 +10,10 @@ assignees: ''
 
 **To Reproduce**
 
-* This is a sample step list. Replace with yours matching the same pattern.
-* Load attached save.
-* Move through door in front of you.
-* Game crashes. Dump attached.
+ - This is a sample step list. Replace with yours matching the same pattern.
+ - Load attached save.
+ - Attack the goblin.
+ - Attack bonus is calculated incorrectly, should be +5 due to Axe of Amazement, but is +4.
 
 **Specifics**
 
