@@ -18,7 +18,7 @@ assignees: ''
 
 - Linux: Attach the .log
 - MacOS: Attach the .log and the Console.app report if available
-- Windows: Attach the generated .dmp
+- Windows: Attach the generated .log AND .dmp
 
 **Specifics**
 
