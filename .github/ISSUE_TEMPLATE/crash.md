@@ -26,4 +26,4 @@ assignees: ''
  - Game build (e.g. 8193.8, or commit hash)
  - Distro platform (BDC, Steam, GOG)
  - Repro Rate (100%?)
- - Custom Content (Steam Workshop files? Overrides? Patch haks? If yes, which?)
+ - Content overrides? (Steam Workshop? Overrides? Patch haks?)
