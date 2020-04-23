@@ -22,6 +22,8 @@ Thank you.
 
 8. **Are you reporting for a persistent world that is using NWNX?** Please report NWNX-related bugs with them: https://github.com/nwnxee/unified. We will not address NWNXEE bugs.
 
+9. **Remove all content overrides and ensure the bug still manifests.** Make sure you do not have content overrides in place. This includes *all* Steam Workshop items and user patch additions such as CPP.
+
 ## Reporting a new issue
 
 1. After you verified all of the above, click the New Issue button.
