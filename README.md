@@ -14,11 +14,13 @@ Thank you.
 
 4. **DO NOT REPORT SCRIPT, CAMPAIGN, OR PREMIUM MODULE BUGS HERE.** We only deal with the engine and engine data files here. **Reports for script or module issues will be closed without comment.**
 
-5. **Check if your issue was already reported.** You can find all reported issues here: https://github.com/Beamdog/nwn-issues/issues?q=is%3Aissue
+5. **DO NOT REPORT SECURITY ISSUES HERE.** Exploits should be handled confidentially. Please contact a developer directly if you have become aware of such a thing.
 
-6. **Have you verified with the latest development build?** Please check with the patch notes first, and try your bug on the latest development build.
+6. **Check if your issue was already reported.** You can find all reported issues here: https://github.com/Beamdog/nwn-issues/issues?q=is%3Aissue
 
-7. **Are you reporting for a persistent world that is using NWNX?** Please report NWNX-related bugs with them: https://github.com/nwnxee/unified. We will not address NWNXEE bugs.
+7. **Have you verified with the latest development build?** Please check with the patch notes first, and try your bug on the latest development build.
+
+8. **Are you reporting for a persistent world that is using NWNX?** Please report NWNX-related bugs with them: https://github.com/nwnxee/unified. We will not address NWNXEE bugs.
 
 ## Reporting a new issue
 
