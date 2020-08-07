@@ -21,6 +21,7 @@ assignees: ''
  - Game build (e.g. 8193.8, or commit hash)
  - Distro platform (BDC, Steam, GOG)
  - Content overrides? (Steam Workshop? Overrides? Patch haks?)
+ - Regression? (Build which broke it, if known)
 
 **If needed, describe the bug**
 

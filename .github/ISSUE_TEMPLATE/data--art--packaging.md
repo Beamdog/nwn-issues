@@ -29,3 +29,4 @@ If warranted, add videos/screenshots to showcase the issue.
  - OS (Windows, Mac, Linux)
  - Distro platform (BDC, Steam, GOG)
  - Content overrides? (Steam Workshop? Overrides? Patch haks?)
+ - Regression? (Build which broke it, if known)

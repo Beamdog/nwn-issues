@@ -17,6 +17,7 @@ assignees: ''
 **Specifics**
 
  - Game build (e.g. 8193.8, or commit hash)
+ - Regression? (Build which broke it, if known)
 
 **If needed, describe the bug**
 
