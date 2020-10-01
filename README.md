@@ -26,11 +26,11 @@ Thank you.
 
 ## Reporting a new issue
 
-1. After you verified all of the above, click the New Issue button.
+1. After you verified all of the above, click the New Issue button. **Make sure you are signed in before doing so; GitHub has a bug where it will not offer you the template list if you come through via the Sign In flow.**
 
 2. Select the template that best fits your type of issue.
 
-3. Fill out the template, keeping things concise and to the point.
+3. Fill out the template, keeping things concise and to the point. **Do not delete the template text. A handcrafted wall of text imposes extra parsing effort on the developer, and thus will receive lesser treatment.**
 
 4. Pick a descriptive title. Please keep it naturally short and address the core issue in as few and clear words as reasonable.
 
