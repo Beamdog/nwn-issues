@@ -1,5 +1,5 @@
 ---
-name: Data, Art, Packaging
+name: Packaging, Art, Data
 about: Report a problem with the data build, such as texture or model issues; or broken
   packaged data.
 title: ''
