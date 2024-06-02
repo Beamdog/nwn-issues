@@ -1,0 +1,62 @@
+name: Crash or hang
+description: Report a crash or hang, client or server.
+labels: crash
+
+body:
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: OS
+      description: Which platform did this crash or hang happen on?
+      options:
+        - Windows
+        - Mac
+        - Linux
+    validations:
+      required: true
+
+  - type: input
+    id: game-build
+    attributes:
+      label: Game version
+      description: |
+        The game version you are on. You can find it in the title bar or options menu of the game.
+        
+        **Try to reproduce on the latest stable version before reporting.**
+      placeholder: ex. 36-13
+    validations:
+      required: true
+  
+  - type: textarea
+    id: bug
+    attributes:
+      label: Describe the crash
+      description: |
+        Describe the crash or hang concisely.
+
+        Include reproduction steps and upload all attachments you think might be needed.
+
+        For crashes, the following files from your Documents/Neverwinter Nights directory MUST be included:
+          - Linux: Attach the .log
+          - MacOS: Attach the .log
+          - Windows: Attach the .log AND .dmp
+      placeholder: |
+         Repro step list, e.x.:
+         - Load attached save.
+         - Move through door in front of you.
+         - Game crashes.
+    validations:
+      required: true
+
+  - type: textarea
+    id: custom-content
+    attributes:
+      label: Custom content or overrides used
+      description: |
+        Name any custom content you have installed.
+
+        Bug reports including custom content cannot be handled unless the content is available for reproduction.
+
+        If possible, try reproducing the issue without custom content activated.
+
