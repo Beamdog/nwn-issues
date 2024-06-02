@@ -1,6 +1,8 @@
 name: Game
 description: |
-  Report a renderer, game logic bug, regression, or crash. 
+  Report a bug with the game.
+  
+  For crashes, packaging, and Toolset reports, please use the dedicated templates.
 labels: game
 
 body:
