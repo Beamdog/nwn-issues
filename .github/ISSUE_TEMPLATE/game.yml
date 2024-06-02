@@ -1,0 +1,87 @@
+name: Game
+description: |
+  Report a renderer, game logic bug, regression, or crash. 
+labels: game
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        *Make sure you have read [README.md](https://github.com/Beamdog/nwn-issues/blob/master/README.md) before submitting your report.*
+
+        Do not report data/artwork or Toolset issues here: Use the other templates for these.
+
+  - type: textarea
+    id: bug
+    attributes:
+      label: Describe the bug
+      description: |
+        Describe the bug concisely.
+
+        Include reproduction steps and upload all attachments you think might be needed.
+      placeholder: |
+        Example:
+        - Load attached save.
+        - Attack the goblin.
+        - Attack bonus is calculated incorrectly, should be +5 due to Axe of Amazement, but is +4.
+    validations:
+      required: true
+
+  - type: textarea
+    id: custom-content
+    attributes:
+      label: Custom content or overrides used
+      description: |
+        Name any custom content you have installed.
+
+        Bug reports including custom content cannot be handled unless the content is available for reproduction.
+
+        If possible, try reproducing the issue without custom content activated.
+
+  - type: input
+    id: game-build
+    attributes:
+      label: Game version
+      description: |
+        The game version you are on. You can find it in the title bar or options menu of the game.
+        
+        **Try to reproduce on the latest stable version before reporting.**
+      placeholder: ex. 36-13
+    validations:
+      required: true
+
+  - type: input
+    id: regress-build
+    attributes:
+      label: First seen on game version
+      description: When did you first see this (e.g. Regression)?
+      placeholder: ex. 36-13, or empty if unknown
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: OS
+      description: |
+        Check all that you know the issue is appearing on.
+        
+        ***Do not report issues on iOS, Android, or consoles. We do not support these here.***
+      multiple: true
+      options:
+        - Windows
+        - Mac
+        - Linux
+    validations:
+      required: true
+
+  - type: dropdown
+    id: distro
+    attributes:
+      label: Distribution
+      description: Where did you install the game from?
+      default: 0
+      options:
+        - Steam
+        - GOG
+        - Beamdog
+    validations:
+      required: true
