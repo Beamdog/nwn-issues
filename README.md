@@ -6,7 +6,7 @@ Thank you.
 
 ## Before reporting
 
-1. **If you want to reach customer support, follow this link instead:** https://beamdog.atlassian.net/servicedesk/customer/portals. This is a technical issue tracker for technical people. We cannot help you with anything except game bugs. If you have issues running the game, issues with your purchase, or other difficulties not related to bugs in the code and data files, please contact customer support at the given link.
+1. **If you want to reach customer support, follow this link instead:** https://support.aspyr.com/hc/en-us. This is a technical issue tracker for technical people. We cannot help you with anything except game bugs. If you have issues running the game, issues with your purchase, or other difficulties not related to bugs in the code and data files, please contact customer support at the given link.
 
 2. **DO NOT REQUEST FEATURES HERE.** This is only for bugs in the game. **Feature requests will be closed without comment.**
 
